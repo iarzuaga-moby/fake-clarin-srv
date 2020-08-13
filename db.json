@@ -7,20 +7,20 @@
       "credential":[
          {
             "type_doc":"DNI",
-            "doc":12345678911,
+            "doc":28831086,
             "affinity_group":"01",
-            "credential":"3086251500017137018",
+            "credential":"3086251500017131527",
             "status_cred":"ACTIVE",
-            "validity_days":"90",
+            "validity_days":"15",
             "cred_platform":"todopago_365"
          },
          {
             "type_doc":"DNI",
-            "doc":12345678911,
-            "affinity_group":"01",
-            "credential":"3086251500017123456",
+            "doc":28831086,
+            "affinity_group":"04",
+            "credential":"3086251500017127256",
             "status_cred":"ACTIVE",
-            "validity_days":"90",
+            "validity_days":"20",
             "cred_platform":"todopago_365"
          }
       ]
