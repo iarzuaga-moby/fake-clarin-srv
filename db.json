@@ -33,16 +33,16 @@
       "credential":[
          {
             "type_doc":"DNI",
-            "doc":23413297,
+            "doc":23400297,
             "affinity_group":"06",
             "credential":"3086251500017135623",
-            "status_cred":"ACTIVE",
+            "status_cred":"INACTIVE",
             "validity_days":"20",
             "cred_platform":"todopago_365"
          },
          {
             "type_doc":"DNI",
-            "doc":28123126,
+            "doc":23400297,
             "affinity_group":"05",
             "credential":"3086251500017123456",
             "status_cred":"ACTIVE",
