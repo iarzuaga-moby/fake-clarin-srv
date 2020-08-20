@@ -33,7 +33,7 @@
       "credential":[
          {
             "type_doc":"DNI",
-            "doc":23400297,
+            "doc":25900030,
             "affinity_group":"06",
             "credential":"3086251500017135623",
             "status_cred":"INACTIVE",
@@ -42,7 +42,7 @@
          },
          {
             "type_doc":"DNI",
-            "doc":23400297,
+            "doc":25900030,
             "affinity_group":"05",
             "credential":"3086251500017123456",
             "status_cred":"ACTIVE",
